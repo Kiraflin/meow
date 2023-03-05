@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.sass"
+	],
+	"sourcesContent": [
+		"h1 {\n    color: red;\n    font-syze: 50px;\n\n    .animals {\n        background-color: blue;\n        width: 200px;\n\n        .cow {\n            background-color: black;\n            width: 200px;\n\n            &_little {\n                background-color: purple; } } } }\n"
+	],
+	"names": [],
+	"mappings": ";;AAAA,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,GAAG;EACV,SAAS,EAAE,IAAI;CAW8B;;;AAbjD,AAII,EAJF,CAIE,QAAQ,CAAC;EACL,gBAAgB,EAAE,IAAI;EACtB,KAAK,EAAE,KAAK;CAO2B;;;AAb/C,AAQQ,EARN,CAIE,QAAQ,CAIJ,IAAI,CAAC;EACD,gBAAgB,EAAE,KAAK;EACvB,KAAK,EAAE,KAAK;CAGqB;;;AAb7C,AAYY,EAZV,CAIE,QAAQ,CAQC,WAAO,CAAC;EACL,gBAAgB,EAAE,MAAM;CAAG"
+}
